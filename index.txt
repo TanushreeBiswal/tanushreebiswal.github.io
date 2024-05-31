@@ -2,7 +2,7 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
+alt = Tanushree Biswal
 Richard hanrick
 Web developer
 
