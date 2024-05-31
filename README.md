@@ -1,44 +1,22 @@
-# vCard - Personal portfolio
+# [Your Name]'s Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Welcome to my portfolio website! I am a life science student currently pursuing my post-graduation at Karnataka University. This website showcases my academic journey, teaching experience, and my passion for life sciences.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+## About Me
 
-## Demo
+I have completed two semesters and have two more to go. With a deep interest in teaching, I have two years of experience educating school students in life sciences. My goal is to make science accessible and engaging for young minds.
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+## Services
 
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-## Installing vCard
-
-To install **vCard**, follow these steps:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+- **Tutoring:** Personalized tutoring sessions in various life science subjects for school students.
+- **Workshops and Seminars:** Interactive and informative sessions designed to connect theoretical knowledge with real-world applications.
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you are interested in joining my tutoring sessions, attending workshops, or offering an internship opportunity, please reach out to me through the contact form on the website or via email at [your.email@example.com](mailto:your.email@example.com).
 
-## License
+## Site
 
-MIT
+Visit the site: [Your GitHub Pages URL](https://tanushreebiswal.github.io/)
+
+Thank you for visiting my portfolio!
