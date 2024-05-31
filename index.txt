@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+Tanushree Biswal | Portfolio
 
 # sidebar
 
 alt = Tanushree Biswal
-Richard hanrick
-Web developer
+Tanushree Biswal
+Life Science Graduate
 
 Show Contacts
 
 Email
-richard@example.com
+biswaltanushree36@gmail.com
 
 Phone
-+1 (213) 352-2795
++917855011061
 
 Birthday
-June 23, 1982
+March 3, 2001
 
 Location
-Sacramento, California, USA
+Cuttack, Odisha, India
 
 # navbar
 
